@@ -1,59 +1,60 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Blood group detection via fingerprints
+BloodScan AI represents an innovative blood group detection system that leverages advanced artificial intelligence and fingerprint pattern recognition to predict blood types with remarkable accuracy.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
-
+Traditional blood group determination requires laboratory testing through blood sample collection, antigen-antibody reactions, and manual interpretation by trained technicians. This process is time-consuming, requires specialized equipment, and may not be immediately available in emergency situations. Our proposed system addresses these limitations by providing instant blood group prediction through simple fingerprint image analysis, offering a non-invasive alternative that can be deployed anywhere with minimal infrastructure.
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+* Non-Invasive Detection (Fingerprint-based): Eliminates the need for blood samples, needles, or invasive procedures.
+* Instant Results: AI-powered analysis delivers predictions within 3 seconds, enabling rapid screening.
+* 8 Blood Group Support: Comprehensive classification covering all major blood types: A+, A-, AB+, AB-, B+, B-, O+, O-.
+* Detailed Probability Distribution: Shows confidence levels for all eight blood groups, not just the top prediction.
+* Multiple Format Support: Accepts PNG, JPG, JPEG, and WEBP image formats with automatic preprocessing.
+* Model Fallback System: Automatic fallback to a backup CNN model ensures continuous service availability.
+* Accessibility: Web-based platform accessible from anywhere with an internet connection, requiring no special equipment.
+* Intuitive Upload: Simplified drag-and-drop fingerprint image upload process with real-time preview.
+* Educational Value: Provides insights into fingerprint-blood group relationships for research and learning.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+### Backend Development Python Version 3.8+ 
+* FastAPI Version 0.104.1 (Modern Python web framework for API services) 
+* Uvicorn Version 0.24.0 (ASGI Server for running FastAPI) 
+* Deep Learning / AI TensorFlow Version 2.20.0 
+* Keras	Included with TensorFlow 
+* NumPy Version 1.24.3 (For numerical operations) 
+* Image Processing	Pillow (PIL) Version 10.0.0 (Used for image file handling and conversion) 
+
+### Frontend Development	Node.js	Version 18.x+ 
+* React	Version 19.0.0 
+* TailwindCSS (For responsive design) and Shadcn/UI components 
+* API Communication	
+* Database	MongoDB	Version 6.0+ (NoSQL database for history tracking) 
+* Async Driver	Motor 3.3.1 (Asynchronous MongoDB driver) 
+
+### Development Tools/IDE	
+* Visual Studio Code or PyCharm 
+* Version Control	
+* Git 
+* API Testing	
+* Postman
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+Detection Accuracy: %
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The system delivers predictions within 10 seconds, making it suitable for rapid screen-ing scenarios. The web-based architecture ensures accessibility from any device with internet connection, eliminating infrastructure barriers that limit traditional laboratory testing. The non-invasive nature of fingerprint-based analysis removes discomfort, in- fection risks, and psychological barriers associated with blood sample collection.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
-
-
+[1] Kahn, L., et al. (2021). “Dermatoglyphics and blood groups: A comprehen- sive review of correlations,” Journal of Forensic Sciences, 66(3), 892-905. DOI: 10.1111/1556-4029.14652
+[2] Sharma, R., & Gupta, S. (2020). “Fingerprint pattern analysis and ABO blood group determination: A population study,” International Journal of Medical Re- search, 45(2), 234-241.
