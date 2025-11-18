@@ -38,17 +38,17 @@ Traditional blood group determination requires laboratory testing through blood 
 * Postman
 
 ## System Architecture
-
-
-
+![System Architecture](img/Architecture.png)
 
 ## Output
+#### Output1 - BloodScan AI Landing Page
+![Output1 - BloodScan AI Landing Page](img/1.png)
 
-#### Output1 - Blood Group A+ Detection Result
-![Output1 - Blood Group A+ Detection Result](img/1.png)
+#### Output2 - Blood Group A+ Detection Result
+![Output1 - Blood Group A+ Detection Result](img/2.png)
 
-#### Output2 - Blood Group A- Detection Result
-
+#### Output3 - Blood Group A- Detection Result
+![Output1 - Blood Group A+ Detection Result](img/3.png)
 Detection Accuracy: 92%
 
 
