@@ -50,8 +50,7 @@ Traditional blood group determination requires laboratory testing through blood 
 #### Output3 - Blood Group A- Detection Result
 ![Output1 - Blood Group A+ Detection Result](img/3.png)
 </br>
-Detection Accuracy: 92%
-
+Detection Accuracy: 90%
 
 ## Results and Impact
 The system delivers predictions within 10 seconds, making it suitable for rapid screen-ing scenarios. The web-based architecture ensures accessibility from any device with internet connection, eliminating infrastructure barriers that limit traditional laboratory testing. The non-invasive nature of fingerprint-based analysis removes discomfort, in- fection risks, and psychological barriers associated with blood sample collection.
