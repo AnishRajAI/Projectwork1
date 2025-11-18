@@ -45,7 +45,7 @@ Traditional blood group determination requires laboratory testing through blood 
 ## Output
 
 #### Output1 - Blood Group A+ Detection Result
-
+![Output1 - Blood Group A+ Detection Result]
 
 #### Output2 - Blood Group A- Detection Result
 
