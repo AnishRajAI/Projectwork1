@@ -57,4 +57,5 @@ The system delivers predictions within 10 seconds, making it suitable for rapid 
 
 ## Articles published / References
 [1] Kahn, L., et al. (2021). “Dermatoglyphics and blood groups: A comprehen- sive review of correlations,” Journal of Forensic Sciences, 66(3), 892-905. DOI: 10.1111/1556-4029.14652
+</br>
 [2] Sharma, R., & Gupta, S. (2020). “Fingerprint pattern analysis and ABO blood group determination: A population study,” International Journal of Medical Re- search, 45(2), 234-241.
