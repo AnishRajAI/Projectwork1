@@ -49,6 +49,7 @@ Traditional blood group determination requires laboratory testing through blood 
 
 #### Output3 - Blood Group A- Detection Result
 ![Output1 - Blood Group A+ Detection Result](img/3.png)
+</br>
 Detection Accuracy: 92%
 
 
