@@ -44,12 +44,12 @@ Traditional blood group determination requires laboratory testing through blood 
 
 ## Output
 
-#### Output1 - Name of the output
+#### Output1 - Blood Group A+ Detection Result
 
 
-#### Output2 - Name of the output
+#### Output2 - Blood Group A- Detection Result
 
-Detection Accuracy: %
+Detection Accuracy: 92%
 
 
 ## Results and Impact
